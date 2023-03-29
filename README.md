@@ -1,4 +1,4 @@
-# chatgpt
+# Chatgpt
 - [超实用的工具合集](https://start.me/)
 - [超详细的渗透测试思维导图 @浅蓝](https://github.com/iSafeBlue/Mind-Map)
 - [利用HOSTS碰撞突破边界](https://xz.aliyun.com/t/9590)
