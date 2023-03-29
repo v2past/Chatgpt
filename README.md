@@ -5,7 +5,7 @@
 
 
 # 账号购买
-- [购买连接]（https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D）
+- [购买连接](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)
 
 
 # 调教指南
