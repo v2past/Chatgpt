@@ -15,4 +15,4 @@
 # 国内代理
 - [代理1](https://github.com/easychen/chatchan-dist)
 - [代理2](https://github.com/Yidadaa/ChatGPT-Next-Web)
-- [AI导航]（https://www.chatgptdh.com/）
+- [AI导航](https://www.chatgptdh.com）
