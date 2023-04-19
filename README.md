@@ -2,7 +2,9 @@
 - [超实用的工具合集](https://start.me/p/0Px1pe/chatgpt)
 
 # 账号购买
-- [购买连接](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)
+- [购买连接1](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)
+- [购买连接2](https://51chatgpt.live/)
+
 
 
 # 调教指南
@@ -13,3 +15,4 @@
 # 国内代理
 - [代理1](https://github.com/easychen/chatchan-dist)
 - [代理2](https://github.com/Yidadaa/ChatGPT-Next-Web)
+- [AI导航]（https://www.chatgptdh.com/）
