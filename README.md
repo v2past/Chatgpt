@@ -1,6 +1,7 @@
 # Chatgpt
 - [超实用的工具合集](https://start.me/p/0Px1pe/chatgpt)
 - [入门到入门](https://szqxz4m7fs.feishu.cn/wiki/wikcnLnvTrmxrXhOIofIr4JrEIg)
+- [npl乐园](https://github.com/fighting41love/funNLP)
 
 # 账号购买
 - [购买连接1](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)
