@@ -3,6 +3,11 @@
 - [入门到入门](https://szqxz4m7fs.feishu.cn/wiki/wikcnLnvTrmxrXhOIofIr4JrEIg)
 - [npl乐园](https://github.com/fighting41love/funNLP)
 - [深度AI导航](https://www.deepdhai.com/)
+- [AI绘画](https://github.com/hua1995116/awesome-ai-painting)
+- [stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker)
+- [建设参照](https://chat.jinshutuan.com/#/chat/1686216896052)
+- [建设参照开源](https://github.com/binjie09/chatgpt-web)
+
 
 # 账号购买
 - [购买连接1](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)
