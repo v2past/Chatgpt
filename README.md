@@ -2,12 +2,12 @@
 - [超实用的工具合集](https://start.me/p/0Px1pe/chatgpt)
 - [入门到入门](https://szqxz4m7fs.feishu.cn/wiki/wikcnLnvTrmxrXhOIofIr4JrEIg)
 - [npl乐园](https://github.com/fighting41love/funNLP)
+- [深度AI导航](https://www.deepdhai.com/)
 
 # 账号购买
 - [购买连接1](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)
 - [购买连接2](https://51chatgpt.live/)
-
-
+- [购买连接3](https://ai.guestpost.cn/?from=2116)
 
 # 调教指南
 - [调教连接1](https://chatguide.plexpt.com/#%E9%97%AE%E9%A2%98%E8%A1%A8)
