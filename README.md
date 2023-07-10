@@ -7,7 +7,12 @@
 - [stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker)
 - [建设参照](https://chat.jinshutuan.com/#/chat/1686216896052)
 - [建设参照开源](https://github.com/binjie09/chatgpt-web)
-
+- [Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt)
+- [AI · 图片创作](https://cube.waixingyun.cn/img-tools/index)
+- [Apitable](https://github.com/apitable/apitable/blob/develop/docs/readme/zh-CN/README.md)
+- [中国大模型列表](https://github.com/wgwang/LLMs-In-China)
+- [什么是 Azure OpenAI 服务？](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/overview)
+- []()
 
 # 账号购买
 - [购买连接1](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)
