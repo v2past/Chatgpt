@@ -18,6 +18,7 @@
 - [购买连接1](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)
 - [购买连接2](https://51chatgpt.live/)
 - [购买连接3](https://ai.guestpost.cn/?from=2116)
+- [便宜购买](https://www.8888key.com/)
 
 # 调教指南
 - [调教连接1](https://chatguide.plexpt.com/#%E9%97%AE%E9%A2%98%E8%A1%A8)
