@@ -12,7 +12,7 @@
 - [Apitable](https://github.com/apitable/apitable/blob/develop/docs/readme/zh-CN/README.md)
 - [中国大模型列表](https://github.com/wgwang/LLMs-In-China)
 - [什么是 Azure OpenAI 服务？](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/overview)
-- []()
+- [企业微信接入chatgpt,最靠谱教程](https://mdnice.com/writing/6cea114075e24dbf8b84dc508d52a4f9)
 
 # 账号购买
 - [购买连接1](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)
