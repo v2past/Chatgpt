@@ -14,6 +14,14 @@
 - [什么是 Azure OpenAI 服务？](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/overview)
 - [企业微信接入chatgpt,最靠谱教程](https://mdnice.com/writing/6cea114075e24dbf8b84dc508d52a4f9)
 
+# AI绘画
+- [AI绘画汇总](https://github.com/hua1995116/awesome-ai-painting)
+- [光影](https://www.qbitai.com/2023/07/69159.html)
+- [光影](https://mp.weixin.qq.com/s/rvpU4XhToldoec_bABeXJw)
+- [模型](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original)
+- [提示词](https://www.chinaz.com/2023/0328/1510281.shtml)
+
+
 # 账号购买
 - [购买连接1](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)
 - [购买连接2](https://51chatgpt.live/)
