@@ -21,6 +21,12 @@
 - [模型](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original)
 - [提示词](https://www.chinaz.com/2023/0328/1510281.shtml)
 
+# 大模型基础
+- [十分钟理解Transformer](https://zhuanlan.zhihu.com/p/82312421)
+- [NLP入门基础知识-总览](https://www.zhihu.com/tardis/zm/art/345439113?source_id=1003)
+- [大语言模型（LLM）学习路径和资料汇总](https://github.com/ninehills/blog/issues/97)
+- 
+
 
 # 账号购买
 - [购买连接1](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)
